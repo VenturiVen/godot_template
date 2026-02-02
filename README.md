@@ -1,4 +1,4 @@
-#Godot Template 
+# Godot Template 
 Godot 2D project structure template that I use for personal projects.
 
 ## To Use
@@ -8,3 +8,4 @@ Godot 2D project structure template that I use for personal projects.
 4. Rename, restructure, and remove folders to your liking! 
 
 \* the single .gitignore files are to allow committing empty folders
+
